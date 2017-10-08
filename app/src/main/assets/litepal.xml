@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <list>
+        <mapping class = "work.com.weather.db.Province"/>
+        <mapping class = "work.com.weather.db.City"/>
+        <mapping class = "work.com.weather.db.County"/>
+    </list>
+</litepal>
